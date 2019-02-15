@@ -8,7 +8,7 @@ A repository template for node.js.
 ## Quick Start
 
 ```
-git clone git@github.com:felixpy/node-repo.git
+git clone git@github.com:felixpy/node-es.git
 
 # install dependencies
 yarn
